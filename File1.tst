@@ -1,0 +1,1 @@
+Se crea un archivo para pruebas del Lab1.
