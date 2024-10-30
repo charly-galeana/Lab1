@@ -1,2 +1,2 @@
 Se crea un archivo para pruebas del Lab1.
-Prueba de conflicto: ABC.
+Se modifica el archivo para causar conflictos.
